@@ -1,5 +1,5 @@
 # Hey, I’m @rohanrajappan
-- 👀 I am a student at Case Western Reserve University studying *Computer Science* and *Materials Science and Engineering*
+- 👀 I am a student at Case Western Reserve University studying *Engineering Physics* and *Mathematics*
 - 🌱 I’m currently working on updating my personal [website](https://rajappan.org)
 - 📫 You can reach me through [rohan@rajappan.org](mailto:rohan@rajappan.org) or through my [linkedin](https://linkedin.com/in/rohanrajappan)
 
